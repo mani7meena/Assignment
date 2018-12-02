@@ -1,0 +1,8 @@
+
+body{
+	background:rgb(255, 254, 210) url('./bg.png') no-repeat !important;
+	height: 100vh;
+	color:white;
+	font-family: Open Sans, Lato;
+}
+.add-btn-div{ margin-bottom: 10px; }
